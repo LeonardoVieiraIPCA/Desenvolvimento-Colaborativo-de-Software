@@ -1,0 +1,13 @@
+C:\LUÍS PEREIRA\GitHub\DesenvolvimentoColaborativoSoftware\SimpleApp\SimpleApp\bin\Debug\netcoreapp3.1\SimpleApp.exe
+C:\LUÍS PEREIRA\GitHub\DesenvolvimentoColaborativoSoftware\SimpleApp\SimpleApp\bin\Debug\netcoreapp3.1\SimpleApp.deps.json
+C:\LUÍS PEREIRA\GitHub\DesenvolvimentoColaborativoSoftware\SimpleApp\SimpleApp\bin\Debug\netcoreapp3.1\SimpleApp.runtimeconfig.json
+C:\LUÍS PEREIRA\GitHub\DesenvolvimentoColaborativoSoftware\SimpleApp\SimpleApp\bin\Debug\netcoreapp3.1\SimpleApp.runtimeconfig.dev.json
+C:\LUÍS PEREIRA\GitHub\DesenvolvimentoColaborativoSoftware\SimpleApp\SimpleApp\bin\Debug\netcoreapp3.1\SimpleApp.dll
+C:\LUÍS PEREIRA\GitHub\DesenvolvimentoColaborativoSoftware\SimpleApp\SimpleApp\bin\Debug\netcoreapp3.1\SimpleApp.pdb
+C:\LUÍS PEREIRA\GitHub\DesenvolvimentoColaborativoSoftware\SimpleApp\SimpleApp\obj\Debug\netcoreapp3.1\SimpleApp.AssemblyInfoInputs.cache
+C:\LUÍS PEREIRA\GitHub\DesenvolvimentoColaborativoSoftware\SimpleApp\SimpleApp\obj\Debug\netcoreapp3.1\SimpleApp.AssemblyInfo.cs
+C:\LUÍS PEREIRA\GitHub\DesenvolvimentoColaborativoSoftware\SimpleApp\SimpleApp\obj\Debug\netcoreapp3.1\SimpleApp.csproj.CoreCompileInputs.cache
+C:\LUÍS PEREIRA\GitHub\DesenvolvimentoColaborativoSoftware\SimpleApp\SimpleApp\obj\Debug\netcoreapp3.1\SimpleApp.dll
+C:\LUÍS PEREIRA\GitHub\DesenvolvimentoColaborativoSoftware\SimpleApp\SimpleApp\obj\Debug\netcoreapp3.1\SimpleApp.pdb
+C:\LUÍS PEREIRA\GitHub\DesenvolvimentoColaborativoSoftware\SimpleApp\SimpleApp\obj\Debug\netcoreapp3.1\SimpleApp.genruntimeconfig.cache
+C:\LUÍS PEREIRA\GitHub\DesenvolvimentoColaborativoSoftware\SimpleApp\SimpleApp\obj\Debug\netcoreapp3.1\SimpleApp.csprojAssemblyReference.cache
